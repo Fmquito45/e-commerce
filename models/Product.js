@@ -18,7 +18,7 @@ Product.init(
     },
 
     product_name: {
-      type: DataTypes.DECIMAL,
+      type: DataTypes.STRING,
       allowNull: false,
     },
 
